@@ -2,9 +2,9 @@
 
 ![Banner](https://github.com/user-attachments/assets/5b933a56-0ece-452a-99c0-1a641485a6b9)
 
-# **{{ repo-name }}**
+# **Stencil_ColorZoneEffect**
 
-_**{{ repo-description }}**_
+_**Sistema que permite resaltar zonas específicas a color dentro de un entorno en blanco y negro, compatible con VR.**_
 
 
 </header>
