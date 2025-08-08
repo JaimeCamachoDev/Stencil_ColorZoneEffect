@@ -16,9 +16,4 @@ _**Sistema que permite resaltar zonas específicas a color dentro de un entorno 
 ### 📸 Social Preview
 - [ ] Sube una imagen `preview.png` personalizada en `Settings → Social Preview`.
 
-### 🎨 Personalización visual
-- [ ] Cambiar imagen del banner de portada.
-- [ ] Dejar Topics necesarios.
-
-
 </footer>
