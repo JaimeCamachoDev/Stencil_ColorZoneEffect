@@ -467,7 +467,7 @@ Camera:
     y: 0
     width: 1
     height: 1
-  near clip plane: 0.3
+  near clip plane: 0.01
   far clip plane: 1000
   field of view: 60
   orthographic: 0
@@ -496,7 +496,7 @@ Transform:
   m_GameObject: {fileID: 682656393}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -1, z: -0, w: 0.00000049173826}
-  m_LocalPosition: {x: 10.585, y: 3.546, z: 16.025}
+  m_LocalPosition: {x: 7.73, y: 3.546, z: 17.18}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -664,7 +664,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: d8f131b07f430bf4b8044dbb4e594ce6, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 10.585
+      value: 7.73
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d8f131b07f430bf4b8044dbb4e594ce6, type: 3}
       propertyPath: m_LocalPosition.y
@@ -672,23 +672,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d8f131b07f430bf4b8044dbb4e594ce6, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 16.025
+      value: 17.18
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d8f131b07f430bf4b8044dbb4e594ce6, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.21288638
+      value: 0.08474068
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d8f131b07f430bf4b8044dbb4e594ce6, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.0015407995
+      value: 0.000599844
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d8f131b07f430bf4b8044dbb4e594ce6, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.9770502
+      value: -0.9963779
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d8f131b07f430bf4b8044dbb4e594ce6, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.0070715584
+      value: 0.007052943
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d8f131b07f430bf4b8044dbb4e594ce6, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -760,7 +760,7 @@ PositionConstraint:
   m_Enabled: 1
   serializedVersion: 2
   m_Weight: 1
-  m_TranslationAtRest: {x: 9.16, y: 3.546, z: 13.72}
+  m_TranslationAtRest: {x: 7.73, y: 3.546, z: 17.18}
   m_TranslationOffset: {x: 0, y: 0, z: 0}
   m_AffectTranslationX: 1
   m_AffectTranslationY: 1
