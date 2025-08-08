@@ -1,8 +1,8 @@
 <header>
 
-![Banner](https://github.com/user-attachments/assets/5b933a56-0ece-452a-99c0-1a641485a6b9)
+![Movie_001](https://github.com/user-attachments/assets/35791bac-7c06-4aca-827f-2c8b7deeb004)
 
-# **Stencil_ColorZoneEffect**
+# **BlackAndWhiteArea**
 
 _**Sistema que permite resaltar zonas específicas a color dentro de un entorno en blanco y negro, compatible con VR.**_
 
